@@ -8,6 +8,9 @@
 # @since 0.0.1
 module Upworthy
 	# @private
+	VERSION = '0.0.2'.freeze
+
+	# @private
 	HEADLINES = [
 		"You %{imploreaudio} the %{creationadjective} %{creationaudio} this %{actoradjective} %{actor} %{createdsynonym}",
 		"You %{implorevisual} the %{creationadjective} %{creationvisual} this %{actoradjective} %{actor} %{createdsynonym}",
