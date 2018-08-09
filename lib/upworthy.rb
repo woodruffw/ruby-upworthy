@@ -10,7 +10,7 @@
 # @since 0.0.1
 module Upworthy
   # @private
-  VERSION = "0.0.2"
+  VERSION = "1.0.0"
 
   # @private
   HEADLINES = [
