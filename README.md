@@ -2,7 +2,7 @@ ruby-upworthy
 ==============
 
 [![Gem Version](https://badge.fury.io/rb/ruby-upworthy.svg)](http://badge.fury.io/rb/ruby-upworthy)
-[![Build Status](https://drone.io/github.com/woodruffw/ruby-upworthy/status.png)](https://drone.io/github.com/woodruffw/ruby-upworthy/latest)
+[![Build Status](https://travis-ci.org/woodruffw/ruby-upworthy.svg?branch=master)](https://travis-ci.org/woodruffw/ruby-upworthy)
 
 A clickbait title generator, translated into Ruby from
 [Mike Lacher's](http://mikelacher.com/)
