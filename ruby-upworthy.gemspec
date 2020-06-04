@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.files = Dir["LICENSE", "README.md", ".yardopts", "lib/**/*"]
   s.executables << "upworthy"
   s.homepage = "https://github.com/woodruffw/ruby-upworthy"
-  s.license = "MIT"
+  s.license = "Nonstandard"
 end

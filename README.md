@@ -1,6 +1,7 @@
 ruby-upworthy
 ==============
 
+![license](https://raster.shields.io/badge/license-MIT%20with%20restrictions-green.png)
 [![Gem Version](https://badge.fury.io/rb/ruby-upworthy.svg)](http://badge.fury.io/rb/ruby-upworthy)
 [![Build Status](https://img.shields.io/github/workflow/status/woodruffw/ruby-upworthy/CI/master)](https://github.com/woodruffw/ruby-upworthy/actions?query=workflow%3ACI)
 
